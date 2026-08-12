@@ -5,7 +5,7 @@ __init__.py: Entry Point for MetallibSupportPkg patching utilities
 __title__   = "metal_libraries"
 __version__ = "1.0.0"
 __author__  = "Dortania"
-__url__     = "https://www.github.com/dortania/MetallibSupportPkg"
+__url__     = "https://www.github.com/picasso09/MetallibSupportPkg"
 
 
 from .cli            import main

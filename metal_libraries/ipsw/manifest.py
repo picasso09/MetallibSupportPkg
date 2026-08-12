@@ -46,7 +46,7 @@ class MetallibSupportPkgManifest:
             "sha1sum":   self._latest_ipsw["Hash"],
             "name":      f"MetallibSupportPkg {self._latest_ipsw['Version']} build {self._latest_ipsw['Build']}",
             "seen":      datetime.now().strftime("%Y-%m-%d"),
-            "url":       f"https://github.com/dortania/MetallibSupportPkg/releases/download/{version}-{self._latest_ipsw['Build']}/MetallibSupportPkg-{version}-{self._latest_ipsw['Build']}.pkg",
+            "url":       f"https://github.com/picasso09/MetallibSupportPkg/releases/download/{version}-{self._latest_ipsw['Build']}/MetallibSupportPkg-{version}-{self._latest_ipsw['Build']}.pkg",
         }
 
         return manifest
