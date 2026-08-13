@@ -1,5 +1,14 @@
 [
     {
+        "build": "25G76",
+        "version": "26.6.1",
+        "date": "2026-08-06",
+        "sha1sum": "f9d12dadabc5a5b3090bc92c6f4027961a999024",
+        "name": "MetallibSupportPkg 26.6.1 build 25G76",
+        "seen": "2026-08-13",
+        "url": "https://github.com/picasso09/MetallibSupportPkg/releases/download/26.6.1-25G76/MetallibSupportPkg-26.6.1-25G76.pkg"
+    },
+    {
         "build": "24G809",
         "version": "15.7.8",
         "date": "2026-06-15",
